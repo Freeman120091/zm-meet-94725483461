@@ -9,7 +9,7 @@ import Footer from './components/footer'
 
 function App() {
   return (
-    <div className="bg-white flex flex-col h-screen w-screen">
+   <div className="bg-white relative flex flex-col h-screen w-screen">
       <Navbar/>
       <Routes>
         <Route path="/login" element={<Login/>} />
