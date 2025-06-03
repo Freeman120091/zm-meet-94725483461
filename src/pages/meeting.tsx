@@ -63,12 +63,12 @@ const Meeting = () => {
         <div className='grid grid-cols-2 gap-3 w-full items-start'>
           <div className='flex flex-col gap-1 items-center w-full text-sm'>
             <img src={userLogo} alt='user-logo' className='border-2 border-[#0024f2] rounded-full h-15'/>
-            <div className='text-black mt-2 text-center'>Mr. Richard Fred </div>
+            <div className='text-black mt-2 text-center'>Mr. Michael Maas </div>
             <div className='text-gray-600 font-medium text-center'>(C.E.O)</div>
           </div>
           <div className='flex flex-col gap-1 items-center w-full text-sm'>
             <img src={userLogo} alt='user-logo' className='border-2 border-[#0024f2] rounded-full h-15'/>
-            <div className='text-black mt-2 text-center'>Mrs. Angela Monika </div>
+            <div className='text-black mt-2 text-center'>Mrs. Vera Anderson </div>
             <div className='text-gray-600 font-medium text-center'>(Intl. Marketing Manager)</div>
           </div>
         </div>
