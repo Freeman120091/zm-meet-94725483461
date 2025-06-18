@@ -68,7 +68,7 @@ const Meeting = () => {
           </div>
           <div className='flex flex-col gap-1 items-center w-full text-sm'>
             <img src={userLogo} alt='user-logo' className='border-2 border-[#0024f2] rounded-full h-15'/>
-            <div className='text-black mt-2 text-center'>Mrs. Alvaro Gael </div>
+            <div className='text-black mt-2 text-center'>Mr. Alvaro Gael </div>
             <div className='text-gray-600 font-medium text-center'>(Intl. Marketing Manager)</div>
           </div>
         </div>
